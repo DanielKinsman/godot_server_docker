@@ -1,3 +1,6 @@
+Deprecated, using this instead https://gitlab.com/DanielKinsman/godot-ci
+
+
 A docker image for exporting godot projects to various formats.
 ===============
 
